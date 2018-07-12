@@ -1,13 +1,20 @@
 {
   "name": "shusher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pipe stuff here to get it shushed-up!",
   "main": "index.js",
   "author": "Franklin Davenport",
   "license": "MIT",
+  "keywords": [
+    "/dev/null",
+    "quiet",
+    "silent",
+    "cross-platform",
+    "windows-mac-linux"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/sparebytes/node-shusher.git"
   },
-  "bin": "./index.js"
+  "bin": "./cli.js"
 }

@@ -16,5 +16,5 @@
     "type": "git",
     "url": "https://github.com/sparebytes/node-shusher.git"
   },
-  "bin": "./cli.js"
+  "bin": "./index.js"
 }

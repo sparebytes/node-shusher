@@ -1,6 +1,6 @@
 # Shusher
 
-Cross platform `/dev/null` pipe equivelant.
+Cross platform `/dev/null` pipe equivalent.
 
 ## Usage
 ```bash
